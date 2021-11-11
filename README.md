@@ -1,7 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo7486
-Fork on GitHub1468
 <h1 align="center">Hi 👋, I'm Aditya_Paul</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
