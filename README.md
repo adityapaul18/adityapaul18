@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **aditya.paul18@gmail.com**
 
-- 📄 Know about my experiences [former intern @ Ideoholics](former intern @ Ideoholics)
+- 📄 Know about my experiences (APAC intern '22 @ Northern Trust)(former intern @ Ideoholics)
 
 - ⚡ Fun fact **I think I am Funny**
 
